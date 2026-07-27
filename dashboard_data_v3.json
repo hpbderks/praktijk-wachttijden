@@ -331,7 +331,7 @@
     "weken_sort": null,
     "aanmeld_weken": null,
     "behandel_weken": null,
-    "wachttijd": "Praktijk sluit 1 november 2026. Aanmelden niet meer mogelijk (per 04-07-2026).",
+    "wachttijd": "Praktijk sluit 1 september 2026. Aanmelden en her-aanmelden niet meer mogelijk.",
     "bron": "https://ppquanta.nl/",
     "doelgroep": null
   },
@@ -371,12 +371,12 @@
       "angst_en_stemming",
       "trauma"
     ],
-    "status": "onbekend",
+    "status": "aanmeldstop",
     "weken_sort": null,
     "aanmeld_weken": null,
     "behandel_weken": null,
-    "wachttijd": "Onbekend (opnieuw gecontroleerd, ook contactpagina): geen enkele vermelding van wachttijd of wachtlijst op de website",
-    "bron": "https://www.vanrooijpsychologie.nl",
+    "wachttijd": "Wachtlijst: 'Helaas is er momenteel (2-1-2026) een aanmeldstop wegens een te lange wachtlijst.'",
+    "bron": "https://www.vanrooijpsychologie.nl/basis-ggz",
     "doelgroep": null
   },
   {
@@ -394,11 +394,11 @@
       "relatie_en_seksualiteit",
       "trauma"
     ],
-    "status": "aanmeldstop",
-    "weken_sort": null,
+    "status": "bekend",
+    "weken_sort": 12,
     "aanmeld_weken": null,
     "behandel_weken": null,
-    "wachttijd": "Aanmeldstop: geen ruimte voor nieuwe cliënten (bijgewerkt 16-06-2026)",
+    "wachttijd": "Wachttijd tot intake ongeveer 12 weken; geen wachttijd tussen intake en behandeling (bijgewerkt 13-07-2026)",
     "bron": "https://www.smulderspsychologie.nl/wachttijden",
     "doelgroep": null
   },
@@ -508,7 +508,7 @@
     "weken_sort": 15,
     "aanmeld_weken": "15",
     "behandel_weken": null,
-    "wachttijd": "Wachttijd: 15 weken (per 24-03-2026)",
+    "wachttijd": "Wachttijd: 15 weken (per 24-06-2026)",
     "bron": "https://www.vanderaalstpsychologie.nl/",
     "doelgroep": null
   },
@@ -884,11 +884,11 @@
       "neurodiversiteit",
       "trauma"
     ],
-    "status": "bekend",
-    "weken_sort": 7,
+    "status": "onbekend",
+    "weken_sort": null,
     "aanmeld_weken": "7",
     "behandel_weken": null,
-    "wachttijd": "Wachttijd screening 4 weken; totale wachttijd tot behandeling 10 weken ('s-Hertogenbosch)",
+    "wachttijd": "Pagina vermeldt nu: 'Wij streven ernaar om binnen 3 weken contact met je op te nemen, maar vanwege drukte kan dit langer zijn.' Geen aparte screening- of behandelwachttijd in weken meer gepubliceerd (was: screening 4 weken, totaal 10 weken).",
     "bron": "https://innova-ggz.nl/meer-informatie/wachttijden",
     "doelgroep": null
   },
@@ -1113,7 +1113,7 @@
     "weken_sort": 2,
     "aanmeld_weken": "2",
     "behandel_weken": null,
-    "wachttijd": "Intake: binnen 2 weken. Wachttijden dagbehandeling Breda na intake (actueel 2026):\n\nVerslaving:\n• CZ: 20-32 weken\n• VGZ: 32-52 weken\n• Menzis / Achmea / Overige: 16-22 weken\n\nEetstoornis:\n• CZ: 10-24 weken\n• VGZ: 20-32 weken\n• Menzis / Achmea / Overige: 10-20 weken\n\nTrauma:\n• CZ: 20-32 weken\n• VGZ: 32-52 weken\n• Menzis / Achmea / Overige: 10-20 weken\n\nKlinische opname eetstoornis (18+):\n• VGZ: 18-22 weken na intake\n• Overige: 2-6 weken na intake\n\nIndividuele trajecten: 20-32 weken (alle verzekeraars)",
+    "wachttijd": "Intake binnen 2 weken. Dagbehandeling Breda (2026): Verslaving CZ/VGZ 12-16wk, Menzis/Achmea/overige 2-6wk; Eetstoornis CZ 10-24wk, VGZ 20-32wk, overige 10-20wk; Trauma CZ 20-32wk, VGZ 32-52wk, overige 10-20wk; Individuele trajecten 8-12wk; Klinische opname eetstoornis volwassenen VGZ 18-22wk, overige 2-6wk",
     "bron": "https://changesggz.nl/wachttijden/",
     "doelgroep": null
   },
@@ -1156,7 +1156,7 @@
     "weken_sort": 17,
     "aanmeld_weken": "17",
     "behandel_weken": null,
-    "wachttijd": "Aanmeldwachttijd 17 weken, behandelwachttijd 11 weken (rij 'Psychotraumacentrum' op de wachttijdpagina van Reinier van Arkel), geactualiseerd juni 2026, via doorverwijzing vanaf psychotraumacentrumzuidnederland.nl/behandelingen/wachttijden. Let op: build_trauma.py vermeldt adres Bethaniestraat 10 voor Psychotrauma Centrum Nederland, vs. Bethaniestraat 2 voor Reinier van Arkel - ander huisnummer; koppeling is een inferentie op basis van de doorverwijzing, geen bevestigd feit",
+    "wachttijd": "Aanmeldwachttijd 17 weken, behandelwachttijd 8 weken (rij 'Psychotraumacentrum' op de wachttijdpagina van Reinier van Arkel), geactualiseerd juli 2026",
     "bron": "https://www.reiniervanarkel.nl/clienten/van-aanmelding-tot-start-behandeling",
     "doelgroep": null
   },
@@ -1198,7 +1198,7 @@
     "weken_sort": 3,
     "aanmeld_weken": "3",
     "behandel_weken": null,
-    "wachttijd": "PTSS Behandeling: wachttijd intake 2-4 weken, wachttijd behandeling 2-8 weken (bijgewerkt 09-06-2026); NZA-tabel Trauma- en stressgerelateerde stoornissen: wachttijd intake 4 weken, wachttijd behandeling 10 weken (bijgewerkt 18-06-2026)",
+    "wachttijd": "PTSS Behandeling: wachttijd intake 2-4 weken, wachttijd behandeling 2-8 weken; NZA-tabel Trauma- en stressgerelateerde stoornissen: wachttijd intake 4 weken, wachttijd behandeling 9 weken (bijgewerkt 27-07-2026)",
     "bron": "https://www.psytrec.nl/aanmelden/wachttijden",
     "doelgroep": null
   },
@@ -1217,10 +1217,10 @@
       "verslaving"
     ],
     "status": "bekend",
-    "weken_sort": 9,
+    "weken_sort": 12,
     "aanmeld_weken": "9",
     "behandel_weken": null,
-    "wachttijd": "Geschatte wachttijd 8 tot 10 weken",
+    "wachttijd": "Geschatte wachttijd 11 tot 13 weken (laatst bijgewerkt 15-07-2026)",
     "bron": "https://www.u-center.nl/waarom-bij-u-center/wachttijden",
     "doelgroep": null
   },
@@ -1352,10 +1352,10 @@
       "verslaving"
     ],
     "status": "bekend",
-    "weken_sort": 5,
+    "weken_sort": 0,
     "aanmeld_weken": "5",
     "behandel_weken": null,
-    "wachttijd": "Intake gemiddeld 5 weken na ontvangst verwijsbrief (soms 2-3 weken); start behandeling 3-12+ weken na intake afhankelijk van gemeente/verzekeraar",
+    "wachttijd": "13-17 jaar: geen wachttijd voor intake na ontvangst verwijsbrief, start behandeling ca. 2-3 weken na gemeentelijke toewijzing; 18-25 jaar: geen wachttijd voor intake, geen wachttijd start behandeling (behalve ASR: 6 weken)",
     "bron": "https://www.yeswecanclinics.nl/actuele-wachttijden/actuele-wachttijden-kliniek-hilvarenbeek",
     "doelgroep": null
   },
@@ -3411,8 +3411,8 @@
     "weken_sort": null,
     "aanmeld_weken": null,
     "behandel_weken": null,
-    "wachttijd": "Onbekend",
-    "bron": "",
+    "wachttijd": "Pagina vermeldt wachttijd van 6-9 maanden, maar deze vermelding is gedateerd (2024) en daarmee ouder dan 12 maanden - afgewezen conform dataintegriteitsregels. Praktijk geeft aan dat wachtlijstbemiddeling via zorgverzekeraar/gemeente mogelijk is.",
+    "bron": "http://praktijkappelboom.nl/aanmelden/",
     "doelgroep": null
   },
   {
@@ -3492,12 +3492,12 @@
     "cats": [
       "angst_en_stemming"
     ],
-    "status": "onbekend",
+    "status": "geen_wachtlijst",
     "weken_sort": null,
     "aanmeld_weken": null,
     "behandel_weken": null,
-    "wachttijd": "Geen wachttijd vermeld op de praktijksite",
-    "bron": "",
+    "wachttijd": "Geen wachttijd (expliciet vermeld op de homepage: '✓ Geen wachttijd')",
+    "bron": "https://ta-therapie.nl/",
     "doelgroep": null
   },
   {
@@ -4694,12 +4694,12 @@
     "cats": [
       "verslaving"
     ],
-    "status": "onbekend",
-    "weken_sort": null,
+    "status": "bekend",
+    "weken_sort": 1,
     "aanmeld_weken": null,
     "behandel_weken": null,
-    "wachttijd": "Onbekend",
-    "bron": "https://www.villaramadas-ggz.nl/",
+    "wachttijd": "Actuele (maximale) wachttijden (bijgewerkt 10-02-2026): Intake 1 week; Ambulante behandeling 2 weken (na positief advies, geen machtiging nodig); Klinische behandeling 4 weken (na positief advies, machtiging zorgverzekeraar); Nazorg 1 week",
+    "bron": "https://www.villaramadas-ggz.nl/nl/about.html",
     "doelgroep": null
   },
   {
@@ -4862,12 +4862,12 @@
     "cats": [
       "verslaving"
     ],
-    "status": "onbekend",
-    "weken_sort": null,
+    "status": "bekend",
+    "weken_sort": 1,
     "aanmeld_weken": null,
     "behandel_weken": null,
-    "wachttijd": "Onbekend",
-    "bron": "https://www.castlecraig.nl/",
+    "wachttijd": "Wachttijd tot intake per locatie: Amsterdam 4 weken, Den Haag 3 weken, Rotterdam 2 weken, Zeist 1 week, Digipoli 1 week (Actuele wachttijden). Voor de vestiging Zeist (deze rij): 1 week.",
+    "bron": "https://www.castlecraig.nl/aanmelden/wachttijden",
     "doelgroep": null
   },
   {
@@ -5891,12 +5891,12 @@
     "cats": [
       "complementaire_zorg"
     ],
-    "status": "onbekend",
+    "status": "geen_wachttijd_concept",
     "weken_sort": null,
     "aanmeld_weken": null,
     "behandel_weken": null,
-    "wachttijd": "Onbekend",
-    "bron": "",
+    "wachttijd": "Breathcompany - ademexpert, opleider en spreker (Wies van Beek, regio 's-Hertogenbosch). Coaching/training voor particulieren en bedrijven, geen GGZ basisverzekering. Wachttijdconcept niet van toepassing.",
+    "bron": "https://breathcompany.nl/",
     "doelgroep": null
   },
   {
@@ -6103,12 +6103,12 @@
     "cats": [
       "complementaire_zorg"
     ],
-    "status": "onbekend",
+    "status": "geen_wachttijd_concept",
     "weken_sort": null,
     "aanmeld_weken": null,
     "behandel_weken": null,
-    "wachttijd": "Onbekend",
-    "bron": "",
+    "wachttijd": "Vedawijs - familieopstellingen (Myrthe Huismans, Den Bosch/Eindhoven). Geen BIG-registratie, geen GGZ basisverzekering. Wachttijdconcept niet van toepassing.",
+    "bron": "https://www.vedawijs.nl/contact",
     "doelgroep": null
   },
   {
@@ -6848,12 +6848,12 @@
     "cats": [
       "complementaire_zorg"
     ],
-    "status": "onbekend",
+    "status": "geen_wachttijd_concept",
     "weken_sort": null,
     "aanmeld_weken": null,
     "behandel_weken": null,
-    "wachttijd": "Onbekend",
-    "bron": "",
+    "wachttijd": "Coaching en lichaamsgericht werk (Sanne Smits, regio 's-Hertogenbosch). Geen GGZ basisverzekering. Wachttijdconcept niet van toepassing.",
+    "bron": "https://parata-s.nl/coaching/",
     "doelgroep": null
   },
   {
