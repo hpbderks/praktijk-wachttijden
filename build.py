@@ -90,8 +90,8 @@ h1{font-size:22px;font-weight:700;margin-bottom:2px;letter-spacing:-.3px}
 .sc{flex:1 1 90px;background:#fff;border-radius:10px;padding:13px 8px;text-align:center;box-shadow:0 1px 3px rgba(139,90,60,.1);cursor:pointer;transition:box-shadow .15s,transform .1s;user-select:none}
 .sc:hover{box-shadow:0 3px 10px rgba(139,90,60,.18);transform:translateY(-1px)}
 .sc.active{box-shadow:0 0 0 2.5px #8b4513;transform:translateY(-1px)}
-.sc-num{font-size:12px;font-weight:600;line-height:1.2;color:#b08070}
-.sc-lbl{font-size:15.5px;font-weight:800;margin-top:3px;line-height:1.25}
+.sc-num{font-size:12px;font-weight:600;margin-top:3px;line-height:1.2;color:#b08070}
+.sc-lbl{font-size:15.5px;font-weight:800;line-height:1.25}
 .sc.groen .sc-lbl{color:#2e7d53}.sc.blauw .sc-lbl{color:#1a5f8a}
 .sc.oranje .sc-lbl{color:#bf6520}.sc.rood .sc-lbl{color:#b52a2a}.sc.grijs .sc-lbl{color:#b08070}
 .filters{display:flex;gap:8px;flex-wrap:wrap;margin-bottom:18px;align-items:center}
@@ -178,13 +178,13 @@ a.ti-val:hover{color:#8b4513;text-decoration:underline}
   </div>
 </div>
 <div class="summary" id="summary">
-  <div class="sc groen" data-filter="gwc"><div class="sc-num" id="c-gwc"></div><div class="sc-lbl">Geen wachttijd</div></div>
-  <div class="sc groen" data-filter="0-4"><div class="sc-num" id="c-04"></div><div class="sc-lbl">0&ndash;4 weken</div></div>
-  <div class="sc blauw" data-filter="4-10"><div class="sc-num" id="c-410"></div><div class="sc-lbl">4&ndash;10 weken</div></div>
-  <div class="sc oranje" data-filter="10-20"><div class="sc-num" id="c-1020"></div><div class="sc-lbl">10&ndash;20 weken</div></div>
-  <div class="sc oranje" data-filter="20+"><div class="sc-num" id="c-20p"></div><div class="sc-lbl">20+ weken</div></div>
-  <div class="sc rood" data-filter="stop"><div class="sc-num" id="c-stop"></div><div class="sc-lbl">Aanmeldstop</div></div>
-  <div class="sc grijs" data-filter="unk"><div class="sc-num" id="c-unk"></div><div class="sc-lbl">Onbekend</div></div>
+  <div class="sc groen" data-filter="gwc"><div class="sc-lbl">Geen wachttijd</div><div class="sc-num" id="c-gwc"></div></div>
+  <div class="sc groen" data-filter="0-4"><div class="sc-lbl">0&ndash;4 weken</div><div class="sc-num" id="c-04"></div></div>
+  <div class="sc blauw" data-filter="4-10"><div class="sc-lbl">4&ndash;10 weken</div><div class="sc-num" id="c-410"></div></div>
+  <div class="sc oranje" data-filter="10-20"><div class="sc-lbl">10&ndash;20 weken</div><div class="sc-num" id="c-1020"></div></div>
+  <div class="sc oranje" data-filter="20+"><div class="sc-lbl">20+ weken</div><div class="sc-num" id="c-20p"></div></div>
+  <div class="sc rood" data-filter="stop"><div class="sc-lbl">Aanmeldstop</div><div class="sc-num" id="c-stop"></div></div>
+  <div class="sc grijs" data-filter="unk"><div class="sc-lbl">Onbekend</div><div class="sc-num" id="c-unk"></div></div>
 </div>
 <div class="filters">
   <div class="filter-row">
@@ -408,4 +408,3 @@ if __name__ == '__main__':
         push(HERE)
     else:
         print("[i] Gebruik --push om naar GitHub te deployen")
-                           
