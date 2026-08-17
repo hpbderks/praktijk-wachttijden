@@ -217,10 +217,10 @@
       "trauma"
     ],
     "status": "bekend",
-    "weken_sort": 10,
+    "weken_sort": 8,
     "aanmeld_weken": "10",
     "behandel_weken": null,
-    "wachttijd": "Actuele wachttijden (bijgewerkt 21 april 2026):\n• Volwassenen: 6 weken\n• Kind & Jeugd: 8 weken\n• ADHD diagnostiek volwassenen: 16 weken",
+    "wachttijd": "Actuele wachttijden: Volwassenen: 8 weken; Kind & Jeugd: 8 weken; ADHD diagnostiek volwassenen: 12 weken",
     "bron": "https://www.ypse.nl",
     "doelgroep": "jeugd"
   },
@@ -439,10 +439,10 @@
       "trauma"
     ],
     "status": "bekend",
-    "weken_sort": 3,
+    "weken_sort": 5,
     "aanmeld_weken": "3",
     "behandel_weken": null,
-    "wachttijd": "Wachttijd circa 3 weken",
+    "wachttijd": "Wachttijd: 5 weken (online: geen wachttijd)",
     "bron": "https://www.an-nisa.nl",
     "doelgroep": null
   },
@@ -575,8 +575,8 @@
     "weken_sort": null,
     "aanmeld_weken": null,
     "behandel_weken": null,
-    "wachttijd": "Aanmelding momenteel niet mogelijk (cliëntenstop)",
-    "bron": "https://www.yellowpsychotherapie.com/psychologische-behandeling/aanmelding-en-wachttijden/",
+    "wachttijd": "Aanmeldstop opgeheven: bij juiste indicatie weer ruimte voor nieuwe cliënten voor psychologische behandeling en voor supervisie; geen ruimte voor leertherapie of relatietherapie (update wachttijden 23-07-2026)",
+    "bron": "https://www.yellowpsychotherapie.com/contact/aanmelding/",
     "doelgroep": null
   },
   {
@@ -593,12 +593,12 @@
       "angst_en_stemming",
       "trauma"
     ],
-    "status": "aanmeldstop",
-    "weken_sort": null,
+    "status": "bekend",
+    "weken_sort": 4,
     "aanmeld_weken": null,
     "behandel_weken": null,
-    "wachttijd": "Aanmeldstop wegens lange wachttijd, vermeld per 26 mei 2026",
-    "bron": "https://www.demaasoever.nl/aanmelden",
+    "wachttijd": "Aanmelden is weer mogelijk; wachttijd op dit moment ongeveer 4 weken vanaf de aanmelding (pagina bijgewerkt 11 augustus 2026)",
+    "bron": "https://demaasoever.nl/aanmelden/",
     "doelgroep": null
   },
   {
@@ -1198,7 +1198,7 @@
     "weken_sort": 3,
     "aanmeld_weken": "3",
     "behandel_weken": null,
-    "wachttijd": "PTSS Behandeling: wachttijd intake 2-4 weken, wachttijd behandeling 2-8 weken; NZA-tabel Trauma- en stressgerelateerde stoornissen: wachttijd intake 4 weken, wachttijd behandeling 9 weken (bijgewerkt 27-07-2026)",
+    "wachttijd": "PTSS Behandeling: wachttijd intake 2-4 weken, wachttijd behandeling 2-8 weken; NZA-tabel (wettelijk verplicht) Trauma- en stressgerelateerde stoornissen: wachttijd intake 4 weken, wachttijd behandeling 8 weken (bijgewerkt 17-08-2026, was 9 weken op 27-07-2026)",
     "bron": "https://www.psytrec.nl/aanmelden/wachttijden",
     "doelgroep": null
   },
@@ -1285,8 +1285,8 @@
     "weken_sort": null,
     "aanmeld_weken": null,
     "behandel_weken": null,
-    "wachttijd": "Aanmeldstop bij alle zes behandelaren (Jolanda Poelakker, Elles Bakker, Dorine Heiden, Guido Roelandt, Judith Bovendeerd, Janine Janssen); pagina vermeldt 'laatst gewijzigd op 04-06-2024' - meer dan 2 jaar oud, mogelijk verouderd; bij aanmelding via contactformulier reageert behandelaar binnen ca. 7 dagen",
-    "bron": "https://www.praktijkdevesting.nl",
+    "wachttijd": "Aanmeldstop blijft van kracht bij zes behandelaren (Jolanda Poelakker, Elles Bakker, Dorine Heiden, Guido Roelandt, Judith Bovendeerd, Janine Janssen); aanmelden is momenteel wel mogelijk bij behandelaar Elske Millan-Antonissen (concrete wachttijd niet vermeld); bij aanmelding reageert behandelaar binnen ca. 7 dagen",
+    "bron": "https://praktijkdevesting.nl/en/",
     "doelgroep": null
   },
   {
@@ -3201,7 +3201,7 @@
     "weken_sort": null,
     "aanmeld_weken": null,
     "behandel_weken": null,
-    "wachttijd": "Aanmeldstop per 15 april 2026. Zodra wachtlijst het toelaat gaat stop eraf (per 04-07-2026).",
+    "wachttijd": "Aanmeldstop. Pagina vermeldt: vanaf 15 juli 2026 gaat de aanmeldstop eraf en kan weer aangemeld worden (geraadpleegd 17-08-2026)",
     "bron": "https://www.hoffmanderoijpsychologen.nl/",
     "doelgroep": null
   },
@@ -3219,10 +3219,10 @@
       "angst_en_stemming"
     ],
     "status": "bekend",
-    "weken_sort": 20,
+    "weken_sort": 12,
     "aanmeld_weken": "20",
     "behandel_weken": null,
-    "wachttijd": "Aanmeldingswachttijd (bijgewerkt 10 juni 2026):\n\n• Volwassenen: 20 weken\n• Kinderen & jongeren: 4 weken\n• Online behandeling (alleen volwassenen): 4-6 weken\n\nGeen behandelwachttijd — behandeling start direct na intake.\n\nLet op — aanmeldstop voor verzekerden van:\nZilveren Kruis, Interpolis, IAK/Avéro Achmea, FBTO en De Friesland.",
+    "wachttijd": "Aanmeldingswachttijd (bijgewerkt 7 juli 2026): Volwassenen: 12 weken; Kinderen & jongeren: 4-6 weken; Online behandeling (alleen volwassenen): 4-6 weken. Geen behandelwachttijd. Let op — aanmeldstop voor verzekerden van Zilveren Kruis, Interpolis, IAK/Avéro Achmea, FBTO en De Friesland.",
     "bron": "https://www.psychologenbommelerwaard.nl/praktijkinfo/actuele-wachttijd/",
     "doelgroep": "alle leeftijden"
   },
@@ -3261,10 +3261,10 @@
       "angst_en_stemming"
     ],
     "status": "bekend",
-    "weken_sort": 2,
+    "weken_sort": 6,
     "aanmeld_weken": "2",
     "behandel_weken": null,
-    "wachttijd": "Intake volwassenen: 2 weken; behandeling volwassenen na intake: 2 weken",
+    "wachttijd": "Intake volwassenen: 6 weken; behandeling volwassenen na intake: 2 weken (vestiging Rosmalen, bijgewerkt augustus 2026)",
     "bron": "https://www.btsw.nl/volwassenen/psychologische-hulpverlening-binnen-vergoeding-zorgverzekering/wachttijden-per-vestiging/",
     "doelgroep": null
   },
@@ -3282,10 +3282,10 @@
       "angst_en_stemming"
     ],
     "status": "bekend",
-    "weken_sort": 10,
+    "weken_sort": 12,
     "aanmeld_weken": "10-12",
     "behandel_weken": "4-5",
-    "wachttijd": "Aanmeldwachttijd: 10-12 weken; behandelwachttijd: 4-5 weken (bijgewerkt 23-06-2026)",
+    "wachttijd": "Aanmeldwachttijd: 12-15 weken; behandelwachttijd: 4-5 weken (bijgewerkt 11-08-2026)",
     "bron": "https://gzpsychologie-coaching.com/",
     "doelgroep": null
   },
@@ -3303,11 +3303,11 @@
       "angst_en_stemming"
     ],
     "status": "bekend",
-    "weken_sort": 10,
+    "weken_sort": 4,
     "aanmeld_weken": "10",
     "behandel_weken": null,
-    "wachttijd": "10 weken (peildatum 23-06-2026)",
-    "bron": "https://psychologenpraktijkhaga.nl/",
+    "wachttijd": "Aanmeldingswachttijd: 4 weken (peildatum 11-08-2026). Geen aparte behandelwachttijd — behandeling volgt aansluitend op de intake.",
+    "bron": "https://psychologenpraktijkhaga.nl/behandelingen/wachttijden/",
     "doelgroep": null
   },
   {
@@ -3450,11 +3450,11 @@
       "angst_en_stemming",
       "neurodiversiteit"
     ],
-    "status": "aanmeldstop",
-    "weken_sort": null,
+    "status": "bekend",
+    "weken_sort": 17,
     "aanmeld_weken": null,
     "behandel_weken": null,
-    "wachttijd": "Aanmeldstop voor behandeling (bijgewerkt 01-07-2026)",
+    "wachttijd": "Wachttijd (peildatum 1 augustus 2026): ca. 4-5 maanden (17-22 weken) voor diagnostiek; ca. 6 maanden (26 weken) voor behandeling.",
     "bron": "https://www.ppleenderskiep.nl/wachttijd-en-kosten",
     "doelgroep": null
   },
@@ -3534,12 +3534,12 @@
     "cats": [
       "angst_en_stemming"
     ],
-    "status": "aanmeldstop",
-    "weken_sort": null,
+    "status": "bekend",
+    "weken_sort": 0,
     "aanmeld_weken": null,
     "behandel_weken": null,
-    "wachttijd": "Gesloten voor nieuwe cliënten (bijgewerkt 13-01-2026)",
-    "bron": "https://psychologiepraktijkdekleijn.nl/",
+    "wachttijd": "Geen wachtlijst voor intake (i.v.m. vakantie eerste plek voor intake op 24-8-2026); behandeling na intake: 0 weken (laatste update 16-7-2026)",
+    "bron": "https://www.psychologiepraktijkdekleijn.nl/contact",
     "doelgroep": null
   },
   {
@@ -3892,11 +3892,11 @@
       "relatie_en_seksualiteit"
     ],
     "status": "bekend",
-    "weken_sort": 4,
+    "weken_sort": 16,
     "aanmeld_weken": "4",
     "behandel_weken": null,
-    "wachttijd": "Beschikbaarheid: binnen 1 maand (volgens EFT.nl therapeutenprofiel, geraadpleegd juli 2026)",
-    "bron": "https://www.eft.nl/vught/hollander",
+    "wachttijd": "Beschikbaarheid: binnen 4 maanden (volgens EFT.nl therapeutenprofiel)",
+    "bron": "https://www.eft.nl/vught/hollander,%20sandra%20den",
     "doelgroep": null
   },
   {
