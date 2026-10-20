@@ -197,7 +197,7 @@
   "weken_sort": null,
   "aanmeld_weken": null,
   "behandel_weken": null,
-  "wachttijd": "Aanmeldwachttijd volwassenen: +/- 3 maanden. Kind & Jeugd: 3 weken. Relatie- en systeemtherapie: november; seksuologie: aanmeldstop (pagina laatst gewijzigd 06-10-2026)",
+  "wachttijd": "Aanmeldwachttijd volwassenen: +/- 3 maanden. Kind & Jeugd: geen wachttijd. Relatie- en systeemtherapie: november; seksuologie: aanmeldstop (pagina laatst gewijzigd 19-10-2026)",
   "bron": "https://talkpsychologenpraktijk.nl/wachttijden/",
   "doelgroep": null
  },
@@ -505,10 +505,10 @@
    "trauma"
   ],
   "status": "bekend",
-  "weken_sort": 15,
+  "weken_sort": 16,
   "aanmeld_weken": "15",
   "behandel_weken": null,
-  "wachttijd": "Wachttijd: 15 weken (per 24-06-2026)",
+  "wachttijd": "Wachttijd: 16 weken (per 24-09-2026)",
   "bron": "https://www.vanderaalstpsychologie.nl/",
   "doelgroep": null
  },
@@ -819,7 +819,7 @@
   "weken_sort": 33,
   "aanmeld_weken": "39",
   "behandel_weken": null,
-  "wachttijd": "Wachttijden per regioteam (geactualiseerd september 2026) — aanmeld / behandel in weken: Regioteam Bommelerwaard: >52 / 7; Regioteam Den Bosch binnenstad: 33 / 5; Regioteam Den Bosch Noord-West: 58 / 11; Regioteam Den Bosch Zuid-Oost: 51 / 9; Regioteam Meierij: >52 / 5; Regioteam Vught e.o.: >52 / 8; Polikliniek POP: 5 / 2; Psychotraumacentrum: 22 / 14; Polikliniek ouderen: 8 / 3; (Trans)Forensische FACT: 13 / 5; Forensische kliniek: 2 / 1. In een crisissituatie is er geen wachttijd.",
+  "wachttijd": "Wachttijden per regioteam (geactualiseerd september 2026) — aanmeld / behandel in weken: Regioteam Bommelerwaard: >52 / 7; Regioteam Den Bosch binnenstad: 33 / 5; Regioteam Den Bosch Noord-West: 58 / 11; Regioteam Den Bosch Zuid-Oost: 51 / 9; Regioteam Meierij: >52 / 5; Regioteam Vught e.o.: >52 / 8; Polikliniek POP: 5 / 2; Psychotraumacentrum: 19 / 16; Polikliniek ouderen: 8 / 3; (Trans)Forensische FACT: 13 / 5; Forensische kliniek: 2 / 1. In een crisissituatie is er geen wachttijd.",
   "bron": "https://www.reiniervanarkel.nl/clienten/van-aanmelding-tot-start-behandeling",
   "doelgroep": "ouderen"
  },
@@ -1153,10 +1153,10 @@
    "trauma"
   ],
   "status": "bekend",
-  "weken_sort": 22,
+  "weken_sort": 19,
   "aanmeld_weken": "17",
   "behandel_weken": null,
-  "wachttijd": "Aanmeldwachttijd 22 weken, behandelwachttijd 14 weken (rij 'Psychotraumacentrum' op de wachttijdpagina van Reinier van Arkel), geactualiseerd september 2026",
+  "wachttijd": "Aanmeldwachttijd 19 weken, behandelwachttijd 16 weken (rij 'Psychotraumacentrum' op de wachttijdpagina van Reinier van Arkel), geactualiseerd september 2026",
   "bron": "https://www.reiniervanarkel.nl/clienten/van-aanmelding-tot-start-behandeling",
   "doelgroep": null
  },
@@ -1217,10 +1217,10 @@
    "verslaving"
   ],
   "status": "bekend",
-  "weken_sort": 12,
+  "weken_sort": 9,
   "aanmeld_weken": "9",
   "behandel_weken": null,
-  "wachttijd": "Geschatte wachttijd 11 tot 13 weken (laatst bijgewerkt 06-08-2026)",
+  "wachttijd": "Geschatte wachttijd 8 tot 10 weken (laatst bijgewerkt 16-10-2026)",
   "bron": "https://www.u-center.nl/waarom-bij-u-center/wachttijden",
   "doelgroep": null
  },
@@ -3454,7 +3454,7 @@
   "weken_sort": 17,
   "aanmeld_weken": null,
   "behandel_weken": null,
-  "wachttijd": "Wachttijd (peildatum 1 augustus 2026): ca. 4-5 maanden (17-22 weken) voor diagnostiek; ca. 6 maanden (26 weken) voor behandeling.",
+  "wachttijd": "Wachttijd (peildatum 1 oktober 2026): ca. 4-5 maanden (17-22 weken) voor diagnostiek; ca. 8 maanden voor behandeling.",
   "bron": "https://www.ppleenderskiep.nl/wachttijd-en-kosten",
   "doelgroep": null
  },
@@ -4803,7 +4803,7 @@
   "weken_sort": null,
   "aanmeld_weken": null,
   "behandel_weken": "5-6",
-  "wachttijd": "Na verwijzing wordt zo snel mogelijk telefonisch contact opgenomen; intake doorgaans 3-5 weken na het eerste telefoongesprek. Indicatie wachttijden: individuele behandeling vanaf advies 4 maanden; motivatiebehandeling 6 weken; dagbehandeling 6-8 maanden; klinische behandeling 6 weken (bijgewerkt 07-09-2026)",
+  "wachttijd": "Indicatie wachttijden: individuele behandeling vanaf advies 1 tot 2 maanden; motivatiebehandeling vanaf advies 6 weken; dagbehandeling vanaf advies 1 tot 2 maanden; klinische behandeling vanaf advies 6 weken (bijgewerkt 13-10-2026)",
   "bron": "https://point-o.nl/contact/wachttijden-aanmelden-kosten-en-vergoedingen-behandeling/",
   "doelgroep": null
  },
@@ -4887,7 +4887,7 @@
   "weken_sort": 22,
   "aanmeld_weken": "10",
   "behandel_weken": null,
-  "wachttijd": "BGGZ: Dordrecht 22 weken, Zeeland 22 weken, HoopOnline 7 weken, Rotterdam 40 weken. Bijgewerkt 27-08-2026",
+  "wachttijd": "BGGZ: Dordrecht 24 weken, Zeeland 20 weken, HoopOnline 12 weken, Rotterdam 40 weken. Bijgewerkt 13-10-2026",
   "bron": "https://dehoop.org/wachttijden/aanmeldingswachttijden/",
   "doelgroep": null
  },
@@ -5073,10 +5073,10 @@
    "eetproblematiek"
   ],
   "status": "bekend",
-  "weken_sort": 8,
+  "weken_sort": 15,
   "aanmeld_weken": "0-9",
   "behandel_weken": null,
-  "wachttijd": "Sterk locatie-afhankelijk (wachttijd tot intake): Tilburg 8 weken, digitale behandeling 6 weken, Amsterdam/Bilthoven/Nijmegen 20 weken, Zwolle 24 weken, Den Haag 30 weken, Groningen 32 weken (bijgewerkt 07-10-2026)",
+  "wachttijd": "Sterk locatie-afhankelijk (wachttijd tot intake): Tilburg 15 weken, digitale behandeling 10 weken, Amsterdam/Bilthoven/Nijmegen 20 weken, Zwolle 24 weken, Den Haag 30 weken, Groningen 32 weken (bijgewerkt 14-10-2026)",
   "bron": "https://www.humanconcern.nl/behandeling/praktische-informatie/wachttijden",
   "doelgroep": null
  },
@@ -5409,10 +5409,10 @@
    "complementaire_zorg"
   ],
   "status": "bekend",
-  "weken_sort": 5,
+  "weken_sort": 8,
   "aanmeld_weken": "5",
   "behandel_weken": null,
-  "wachttijd": "Wachttijd intake: 2-8 weken; behandeling: 1-6 maanden",
+  "wachttijd": "Wachttijd intake: +/- 8 weken; behandeling: 3-6 maanden",
   "bron": "https://human-motion.nl/",
   "doelgroep": null
  },
@@ -5576,11 +5576,11 @@
   "cats": [
    "complementaire_zorg"
   ],
-  "status": "aanmeldstop",
-  "weken_sort": null,
+  "status": "bekend",
+  "weken_sort": 4,
   "aanmeld_weken": null,
   "behandel_weken": null,
-  "wachttijd": "Aanmeldstop: cliëntenstop, momenteel geen nieuwe cliënten",
+  "wachttijd": "Haptotherapie (individuele begeleiding): wachtlijst, wachttijd ca. 4-6 weken (bijgewerkt 13-10-2026)",
   "bron": "https://www.manonvandijk.nu/",
   "doelgroep": null
  },
@@ -6462,10 +6462,10 @@
    "online_behandeling"
   ],
   "status": "bekend",
-  "weken_sort": 4,
+  "weken_sort": 5,
   "aanmeld_weken": "10",
   "behandel_weken": null,
-  "wachttijd": "Wachttijd circa 4 weken (Den Bosch locatie, tussen kennismakings- en intakegesprek; pagina laatst gewijzigd 02-09-2026)",
+  "wachttijd": "Wachttijd circa 5 weken (Den Bosch locatie; pagina laatst gewijzigd 16-10-2026)",
   "bron": "https://ipractice.nl/psycholoog/wachttijden/",
   "doelgroep": null
  },
@@ -6505,10 +6505,10 @@
    "online_behandeling"
   ],
   "status": "bekend",
-  "weken_sort": 22,
+  "weken_sort": 24,
   "aanmeld_weken": "10-12",
   "behandel_weken": null,
-  "wachttijd": "Geen locatie in Den Bosch. Volwassenzorg BGGZ Dordrecht: 22 weken. SGGZ Dordrecht: Algemeen 46 weken, Persoonlijkheidsproblematiek 30 weken, Verslaving 31 weken. Hoop Online: 7 weken. Bijgewerkt 27-08-2026.",
+  "wachttijd": "Geen locatie in Den Bosch. Volwassenzorg BGGZ Dordrecht: 24 weken. SGGZ Dordrecht: Algemeen 50 weken, Persoonlijkheidsproblematiek 34 weken, Verslaving 37 weken. Hoop Online: 12 weken. Bijgewerkt 13-10-2026.",
   "bron": "https://dehoop.org/wachttijden/aanmeldingswachttijden/",
   "doelgroep": null
  },
@@ -6569,10 +6569,10 @@
    "online_behandeling"
   ],
   "status": "bekend",
-  "weken_sort": 10,
+  "weken_sort": 8,
   "aanmeld_weken": "10",
   "behandel_weken": null,
-  "wachttijd": "Rond de 10 weken (vermelding juni 2026); geen wachttijd tussen intake en start behandeling",
+  "wachttijd": "Rond de 8 weken (vermelding oktober 2026); geen wachttijd tussen intake en start behandeling",
   "bron": "https://www.mindsession.nl/",
   "doelgroep": null
  },
@@ -6615,7 +6615,7 @@
   "weken_sort": 2,
   "aanmeld_weken": "2",
   "behandel_weken": null,
-  "wachttijd": "Wachttijden (bijgewerkt 2 oktober 2026): Overige verzekeraars 0-4 weken; ASR ca. 2 maanden; CZ 4-5 maanden; DSW 1-2 maanden; Menzis >6 maanden; Zilveren Kruis aanmeldstop. Online praktijk, geen fysieke vestiging nabij Den Bosch.",
+  "wachttijd": "Wachttijden (bijgewerkt 8 oktober 2026): Overige verzekeraars 0-4 weken; DSW 2-3 maanden; CZ aanmeldstop; Zilveren Kruis aanmeldstop. Online praktijk, geen fysieke vestiging nabij Den Bosch.",
   "bron": "https://sol-psychotherapie.nl/wachttijden/",
   "doelgroep": null
  },
